@@ -7,5 +7,5 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 共同開発  
-https://github.com/shimano-yuuki/sloth_shift  
-https://github.com/houki0521/sample
+メモアプリ    https://github.com/shimano-yuuki/sloth_shift  
+食べログアプリ https://github.com/houki0521/sample
